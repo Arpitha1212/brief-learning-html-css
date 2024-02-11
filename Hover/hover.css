@@ -1,0 +1,160 @@
+.request-button{
+    background-color:black;
+    padding:10px;
+    border: none;
+    color:white;
+    font-weight: 10px;
+    font:bold;
+    transition: opacity,0.15s;
+    cursor:pointer;
+}
+
+.request-button:hover{
+    opacity:0.6;
+}
+
+.addtocark-button{
+    background:yellow;
+    color:black;
+    padding:10px 30px 10px 30px;
+    border-radius:50px ;
+    border:none;
+    font:bold; 
+    transition: background-color 0.15s;
+    cursor:pointer;
+}
+
+.addtocark-button:hover{
+    background-color: rgb(246, 246, 45);
+}
+
+.git-button{
+    background-color: green;
+    color:white;
+    border:none;
+    font:bold;
+    padding:10px 15px 10px 15px;
+    border-radius: 10px;
+    transition: background-color,0.15s;
+    cursor:pointer;
+}
+.git-button:hover{
+    box-shadow: 10px 15px 10px rgba(0,0,0, 0.15); /*don't separate thrm with the ","*/
+}
+.bootstrap-button1{
+    background-color:rgb(91, 41, 91);
+    color:white;
+    padding:10px 25px 10px 25px;
+    border:none;
+    font:bold;
+    border-radius:5px;
+    transition: background-color,0.15s; 
+    cursor:pointer;   
+}
+.bootstrap-button1:hover{
+    background-color:rgb(141, 82, 141);
+}
+.bootstrap-button2{
+    background-color:white;
+    color:rgb(91, 41, 91);
+    padding:10px 25px 10px 25px;
+    border-color:rgb(91, 41, 91);
+    font:bold;
+    border-radius: 5px;
+    transition: background-color,0.15s;
+    cursor:pointer;
+}
+.bootstrap-button2:hover{
+    background-color:rgb(57, 56, 57);
+    color:aliceblue;
+}
+.linkedIn-button{
+    background-color:skyblue;
+    color:white;
+    padding:10px 20px 10px 20px;
+    border:none;
+    font:bold;
+    border-radius:10px;
+    transition: background-color,0.15s;
+    cursor:pointer;
+}
+.linkedIn-button:hover{
+    background-color:skyblue ;
+}
+.linkedInSave-button{
+    background-color: white;
+    padding:10px 10px 10px 10px;
+    color:rgb(46, 46, 174);
+    border-radius:25px;
+    border:1px solid skyblue;
+    cursor:pointer;
+}
+.linkedInSave-button:hover{
+ opacity:0.8;
+}
+.back{
+    padding-top:10px;
+    margin-right:10px;
+    margin-left:10px;
+    padding-bottom:10px;
+}
+.next{
+    padding-top:10px;
+    margin-right:10px;
+    margin-left:10px;
+    padding-bottom:10px;
+}
+.stretch{
+    background-color: green;
+    padding:10px;
+    border:none;
+    font:bold;
+    color:white;
+    margin:10px;
+    transition: padding 0.15s;
+    cursor:pointer;
+}
+.stretch:hover{
+    padding:15px;
+}
+.shadow{
+    background-color: green;
+    padding:10px;
+    border:none;
+    font:bold;
+    color:white;
+    margin:10px;
+    transition: motion 0.15s;
+    cursor:pointer;
+    box-shadow: 5px 5px 10px rgba(0,0,0, 0.15);
+}
+.shadow:active{
+   margin-top:10px;
+   margin-bottom:10px;
+   box-shadow: none;
+}
+
+.one{
+    background-color: green;
+    padding:10px;
+    border:none;
+    font:bold;
+    color:white;
+    margin:10px;
+}
+.two{
+    background-color: green;
+    padding:10px;
+    border:none;
+    font:bold;
+    color:white;
+    margin:10px;
+}
+.three{
+        background-color: green;
+        padding:10px;
+        border:none;
+        font:bold;
+        color:white;
+        margin:10px;
+}
