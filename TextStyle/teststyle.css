@@ -1,0 +1,109 @@
+p{
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+
+.Tahoma{
+    font-family: tahoma;
+   }
+.Arial{
+    width:240px;
+    margin-bottom:8px;
+}
+.sales-announcement{
+    color: red;
+    font-style: italic;
+    font-size: 16px;
+  }
+  .course{
+      margin-bottom:4px;
+  }
+.description{
+    Font-family:Arial;
+    color:gray;
+    font-weight: normal;
+}
+.about{
+    width:240px;
+    Font-family:Arial;
+    font-size: 16px;
+ }
+ button{
+    background-color: rgb(66, 120, 66);
+    border:none;
+    padding:5px;
+    color:white;
+    border-radius: 5px;
+ }
+ .business{
+    Font-family:Arial;
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+    margin-bottom:10px;
+ }
+ .About{
+    text-align: center;
+    Font-family:Arial;
+    font-weight: bold;
+ }
+ .link{
+    text-align: center;
+    Font-family:Arial;
+    color: gray;
+ }
+ .new{
+    text-align: center;
+    Font-family:Arial;
+    color: red;
+    font-size:12px;
+    margin-bottom: 8px;
+ }
+ .brand{
+    text-align: center;
+    margin-bottom: 0px;
+ }
+ .headline{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 15px;
+ }
+ .price{
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: normal;
+ }
+ .buy{
+       Font-family:Arial;
+       background-color: rgb(61, 144, 176);
+       padding:6px 12px 6px 12px;
+       border-radius: 15px;
+ }
+ .cost{
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom:6px;
+ }
+ .usd{
+    font-size: 15px;
+    font-weight: normal;
+    color:gray;
+    margin-bottom:6px;
+ }
+ .value{
+    font-size: 15px;
+    color:green;
+    font-weight: normal;
+ }
+ .hours{
+    font-size: 15px;
+    color:gray;
+    font-weight: normal;
+ }
+ .discount{
+    font-size: 15px;
+    color:red;
+    font-weight: normal;
+ }
