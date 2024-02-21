@@ -1,0 +1,122 @@
+.image{
+    margin-left:20px;
+    display:inline-block;
+    vertical-align: top;
+    width:50px;
+}
+.profile{
+    width:55px;
+    height:55px;
+    border-radius:50px;
+}
+.align-info{
+    display: inline-block;
+    width:200px;
+    vertical-align: top;
+    margin-left:10px;
+}
+.name1{
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left:5px;
+    margin-bottom:2px;
+    margin-top:0px;
+}
+.title1, .description{
+    margin-top:0px;
+    vertical-align:middle;
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+    padding-left:5px;
+    margin-bottom:0px;
+ }
+.description{
+    margin-top:5px;
+    vertical-align: top;
+}
+.follow-buttons{
+    margin-top:12px;
+    vertical-align: middle;
+    border-style: none;
+    color:white;
+    background-color: rgb(69, 103, 238);
+    font-weight: bold;
+    font-size:18px;
+    padding:10px 15px 10px 15px;
+    border-radius: 5px;
+}
+.image2{
+    margin-left:20px;
+    display:inline-block;
+    vertical-align: top;
+    width:50px;
+}
+.profile2{
+    width:55px;
+    height:55px;
+    border-radius:50px;
+}
+.align-info2{
+    display: inline-block;
+    width:200px;
+    vertical-align: top;
+    margin-left:10px;
+}
+.name2{
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left:5px;
+    margin-bottom:2px;
+    margin-top:0px;
+}
+.title2, .description2{
+    margin-top:0px;
+    vertical-align:middle;
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+    padding-left:5px;
+    margin-bottom:0px;
+ }
+.description2{
+    margin-top:5px;
+    vertical-align: top;
+}
+.image3{
+    margin-left:20px;
+    display:inline-block;
+    vertical-align: top;
+    width:50px;
+}
+.profile3{
+    width:55px;
+    height:55px;
+    border-radius:50px;
+}
+.align-info3{
+    display: inline-block;
+    width:200px;
+    vertical-align: top;
+    margin-left:10px;
+}
+.name3{
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left:5px;
+    margin-bottom:2px;
+    margin-top:0px;
+}
+.title3, .description3{
+    margin-top:0px;
+    vertical-align:middle;
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+    padding-left:5px;
+    margin-bottom:0px;
+ }
+.description3{
+    margin-top:5px;
+    vertical-align: top;
+}
