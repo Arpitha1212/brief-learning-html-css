@@ -1,0 +1,75 @@
+.container{
+    padding-top:10px;
+    padding-left:10px;
+    flex:1;
+    display: flex;
+    flex-direction: row;    
+}
+.image{
+    width:60px;
+    height:60px;
+    border-radius:30px;
+}
+.about{
+    padding-left:15px;
+}
+.flex-horizontal{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+    flex:1;
+   }
+.autor{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding-right:4px;
+}
+.at{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-size: 16px;
+}
+.description{
+    font-family: Arial, Helvetica, sans-serif;
+    width:450px;
+    font-size: 18px;
+    padding-bottom: 10px;
+    flex:1;
+}
+.message{
+    border-width:1px;
+    border-style:solid;
+    border-color: rgb(196, 193, 193);
+    border-radius:12px;
+    background-color:rgb(203, 199, 199);
+   }
+.blank{
+  padding-left:20px;
+   border-color: rgb(196, 193, 193);
+   align-items:end;
+   flex:1;
+   border-width:1px;
+   border-style:solid;
+   margin-left:150px;
+   background-color: white;
+   border-top-right-radius: 12px;
+   border-bottom-right-radius: 12px;
+   padding-top:15px;
+  }
+.link{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    border-radius:14px;
+    margin-bottom:10px;
+}
+.bp{
+    margin-top:0px;
+    width:250px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+.outer{
+    display: flex;
+    flex-direction: column;
+}
